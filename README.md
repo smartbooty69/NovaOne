@@ -149,12 +149,6 @@ Use `feat:`, `fix:`, or `chore:` prefixes in commit messages.
 
 ---
 
-## 🧑‍🚀 License
-
-MIT © [Your Name / NovaOne Team]
-
----
-
 ## 🌠 About
 
 NovaOne is built to connect the dots between **space data, AI, and community** — empowering the next generation of space exploration and innovation.
